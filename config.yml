@@ -8,8 +8,8 @@
 #                                                                                             |___/           
 
 owner:
-# Syntax: - 443762652259418132 (Your Discord ID), there can be multiple owners
-  - 443762652259418132
+# SICKFL0W: - 647148756797751326 (Your Discord ID), there can be multiple owners
+  - 647148756797751326
 
 startup:
 # Manage your start-up
@@ -18,7 +18,7 @@ startup:
 
 discord:
 # Manage your discord settings
-  botToken: "" # Don't forget to enable intents (https://youtu.be/pzxVzEHk4ww?t=35)
+  botToken: "MTA3ODA3NjIyNDYxNTc1MTc5NA.GXaitq.qn19CYeZL5txFPWERdfHxI8q-mF5QAP6hGV0tQ" # Don't forget to enable intents (https://youtu.be/pzxVzEHk4ww?t=35)
   prefix: "!"
 
 format:
@@ -31,14 +31,14 @@ format:
 minecraft:
 # Minecraft settings
   auth: "mojang" # Pick either mojang/microsoft
-  serverIP: "play.crystaldev.co"
+  serverIP: "play.jartex.fun"
   serverPort: "25565"
   version: "1.8.9"
-  joinCommand: "/ruby"
+  joinCommand: "/server Immortal"
   joinDelay: 3 # Time in between alts joining (in seconds)
   joinCommandDelay: 3 # Time in between an alt joining and executing the join command (in seconds)
   hideErrors: true # To hide the "unknown transaction" warning, if you have trouble getting the bots up you might want to change this to false
 
 alts:
 # This can be an infinite amount of alts, remember to fill it out like this "- AltEmail@email.com:Password123!"
-- AltEmail@email.com:Password123!
+- sickflw@gmail.com:stanic123
